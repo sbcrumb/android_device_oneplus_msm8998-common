@@ -12,6 +12,10 @@
     "target_path": "device/qcom/common"
   },
   {
+    "repository": "crdroidandroid/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  },
+  {
     "repository" : "TheMuppets/proprietary_vendor_oneplus",
     "target_path": "vendor/oneplus",
     "branch" : "lineage-15.1"
