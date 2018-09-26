@@ -1,0 +1,17 @@
+[
+  {
+    "repository":  "aexdump/device_oppo_common",
+    "target_path": "device/oppo/common",
+    "branch":      "9.0"
+  },
+  {
+    "repository":  "Krieg-Kernel/OP5-T",
+    "target_path": "kernel/oneplus/msm8998",
+    "branch":      "treble"
+  },
+  {
+    "repository":  "aexdump/proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "branch":      "9.0-treble"
+  }
+]
